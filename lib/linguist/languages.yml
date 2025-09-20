@@ -8914,6 +8914,17 @@ jq:
   - query-json
   tm_scope: source.jq
   language_id: 905371884
+kx86:
+  color: "#002E21"
+  ace_mode: text
+  type: programming
+  extensions:
+  - ".kx86"
+  - ".kx"
+  interpreters:
+  - kx86
+  tm_scope: source.kx86
+
 kvlang:
   type: markup
   ace_mode: text
